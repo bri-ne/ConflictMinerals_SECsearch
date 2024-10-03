@@ -8,15 +8,15 @@ Use this tool to investigate corporations' use of conflict minerals by searching
   * **be sure to format as an array of strings, e.g `["Company A", "Company B", "Company C"]`**
 * Run as Github Action
   * On the menu bar click "Actions" 
-    * ![screenshot showing the menu bar, with the actions button circled](.images/ss_1.PNG)
+    * ![screenshot showing the menu bar, with the actions button circled](images/ss_1.PNG)
   * Click on the workflow name `py`
-    * ![screenshot showing workflowname](.images/ss_2.PNG)
+    * ![screenshot showing workflowname](images/ss_2.PNG)
   * Then, click "Run workflow" button (look to the right in the workflow table for the button)
-    * ![screenshot showing run workflow button](.images/ss_3.PNG)
+    * ![screenshot showing run workflow button](images/ss_3.PNG)
 * Navigate back to the main repo to find the output file (`output.csv`)
-  * ![screenshot showing repo with output file circled](.images/ss_4.PNG)
+  * ![screenshot showing repo with output file circled](images/ss_4.PNG)
   * click it, and then download
-    * ![screenshot showing file download button](.images/ss_5.PNG)
+    * ![screenshot showing file download button](images/ss_5.PNG)
 
 ## Helpful links 
 
