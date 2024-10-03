@@ -9,3 +9,7 @@ Use this tool to investigate corporations' use of conflict minerals by searching
 * Run as Github Action
   * On the menu bar click "Actions" 
   * Click "Run workflow" button (look to the right in the workflow table for the button)
+
+## Helpful links 
+
+* This repo relies on the Securities and Exchange Commission's [EDGAR Database API](https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data)
