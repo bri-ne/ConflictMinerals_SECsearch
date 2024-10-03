@@ -1,6 +1,6 @@
 from functions import *
 from company_names import *
-import datetime as dt
+
 
 mineralKeyword = {
     "tableMineralsList" : [">Cobalt<",">Tin<", ">tantalum<", ">Tungsten<",">Lithium<", ">Gold<", ">Copper<", ">Gallium<", ">Aluminum<", ">Nickel<", ">Silicon<", ">Germanium<"],
@@ -28,4 +28,4 @@ for i in range(len(mineralKeyword["companies"])):
   }
   print(params)
   f = searchApiCall(params,csvData,metalKeywords,auditKeywords)
-f.to_csv(f'output.csv_{dt.datetime.now()}', index=False)  
+f.to_csv(f'output.csv}', index=False)  

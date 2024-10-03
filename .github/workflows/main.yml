@@ -20,10 +20,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f pythonOption/requirements.txt ]; then pip install -r pythonOption/requirements.txt; fi
+          if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
       - name: execute py script # run file
         run: |
-          python pythonOption/callingFunctions.py
+          python scripts/callingFunctions.py
       - name: Pushing the change
         run: |
           git config --global user.email "cervantes.blc@gmail.com"
