@@ -1,0 +1,1 @@
+c_names =  ["Applied Materials","Advanced Semiconductor Engineer ing","Dell","Global Foundries","Google","Alphabet","Intel","KLA Corporation","EMD Electronics","Polar Semiconductor","TSMC","Microsoft","Apple","Tesla","Sony Group Corp","Marvell","Micron Technology","Seagate Technology Holdings"]
