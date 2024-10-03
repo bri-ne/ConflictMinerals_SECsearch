@@ -33,8 +33,8 @@ Use this tool to investigate corporations' use of conflict minerals by searching
 In the near future, there will be an option to use this workflow straight from a web interface. 
 
 Benefits of this option:
-* This option will make this tool accesible to a wider population
-* Through this option a user would not need their own api key
+* this tool will be accesible to a wider population
+* a user would not need their own api key
 
 Here's what this could like: 
 
