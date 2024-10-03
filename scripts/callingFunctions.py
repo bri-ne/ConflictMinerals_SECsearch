@@ -28,4 +28,4 @@ for i in range(len(mineralKeyword["companies"])):
   }
   print(params)
   f = searchApiCall(params,csvData,metalKeywords,auditKeywords)
-f.to_csv(f'output.csv}', index=False)  
+f.to_csv('output.csv', index=False)  
