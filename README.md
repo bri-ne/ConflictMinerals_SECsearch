@@ -42,7 +42,6 @@ chain, by first answering the following questions:
 * What is a Specialized Disclosure? [Thomas Reuters Practical Law](https://content.next.westlaw.com/practical-law/document/Icf49605def0a11e28578f7ccc38dcbee/Form-SD?viewType=FullText&transitionType=Default&contextData=(sc.Default))
 * Who is filing Specialized Disclosures? [Ropes & Gray](https://www.ropesgray.com/en/insights/viewpoints/102ik3y/conflict-minerals-rule-filing-statistics-released-how-does-your-company-stack)
 * Specilized Disclosure Form from the SEC - [Template](https://www.sec.gov/files/formsd.pdf)
-* 
 
 
 ## Forthcoming
