@@ -2,6 +2,8 @@
 Use this tool to investigate corporations' use of conflict minerals and what, if any, responsibility measures are being applied by searching SEC Specialized Disclosures.
 
 This tool was built in support of transparency and worker power. Learn more about the use case: [Chip Workers 4 Responsible Mining](https://www.cw4rm.org/). 
+- [CW4RM Presentation at CIRCUIT BREAKERS CONFERENCE 2024](https://static1.squarespace.com/static/668ae83b4af380120c2767a0/t/670b5472352d6c38efc24cc2/1728795766212/241012+Circuit+Breakers+Conflict+Mineral+Workshop+%28External%29+V1.pdf)
+
 
 Working jointly with a member of the semiconductor industry, this tool was built as a wrapper for the SEC's [EDGAR Full Text Search API](https://sec-api.io/docs/full-text-search-api). By running the workflow, you will receive a csv with the minerals and responsibility partners listed in a corporation's Specialized Disclosure. 
 
